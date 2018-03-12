@@ -1,0 +1,3 @@
+If you want to play around with this, you have to go to MusixMatch to get your own API key.
+
+The key should be in a file called "API_KEY.txt".
